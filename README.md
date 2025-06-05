@@ -181,5 +181,57 @@ Not all columns are needed — extra metadata columns were removed before visual
 Highlights the Top-Selling Category (e.g., Electronics)
 
 
+🔍 # Analysis
+📈 Findings
+The purpose of this analysis was to identify key patterns in product performance, customer behavior, and geographic sales trends for an Indian e-commerce platform. This helps business decision-makers to focus marketing efforts, manage inventory better, and identify top-performing areas and customers.
+
+Below are the main questions we focused on during the analysis and their corresponding insights.
+
+1. 🏆 What are the Top 5 Products by Total Sales?
+| Rank |Product Name	|Total Units Sold  |
+|----- |--------------|----------------- |
+|  1   |     Stole	  |       75         |
+|  2   |     Saree    |       68         |
+|  3   |  Handkerchief|       60         |
+|  4	 |    Bookcases	|       34         |
+|  5	 |   Furnishings|       29         |
+
+These items represent the most in-demand products. Stole was the top performer by volume.
+
+2. 🏅 Who is the Top Customer?
+Customer Name	Total Orders	Total Sales
+Aakanksha	6	₹432,000
+
+This customer had the highest purchase value, making them a high-value repeat buyer.
+
+3. 🧩 What is the Top-Selling Product Category?
+Category	Total Sales
+Electronics	₹2,000,000
+
+Electronics dominates total revenue — a clear indication that it's the platform’s strongest segment.
+
+4. 🌍 Which States Contributed the Most to Sales?
+Rank	State	Relative Sales Volume
+1	Maharashtra	🔵 Highest
+2	Madhya Pradesh	🔵 Very High
+3	Rajasthan	🔵 High
+
+These states drive the majority of the revenue. Future campaigns can be targeted here.
+
+5. 📌 What Does the Geographic Distribution Look Like?
+Sales are spread across multiple Indian states.
+
+The map visual shows concentrated sales activity in western and central India.
+
+Use of Power BI map + treemap makes it easy to compare region-wise performance visually.
+
+6. 💵 What are the Total Metrics?
+Metric	Value
+Total Profit	₹2M
+Total Units Sold	261 units
+Best-Selling Product	Accessories (by total revenue)
+Top Category	Electronics
+
+
 
 
