@@ -63,3 +63,64 @@ The dashboard includes:
 Total Sales = SUMX('Order_Details', 'Order_Details'[Quantity] * 'Order_Details'[Unit Price])
 Total Quantity = SUM('Order_Details'[Quantity])
 Average Order Value = [Total Sales] / DISTINCTCOUNT('Orders'[Order ID])
+```
+🎨 # Design
+## 📊 Dashboard Components Required
+What should the dashboard contain based on the requirements provided?
+
+To understand what it should contain, we need to figure out what questions the dashboard needs to answer:
+
+What is the total revenue generated?
+
+How many orders have been placed?
+
+What is the average order value?
+
+Which are the top 10 best-selling products?
+
+What are the monthly sales trends?
+
+Which product categories are contributing the most to total sales?
+
+Are we meeting our monthly sales targets?
+
+Who are the top customers by spending?
+
+These questions will help sales managers and business decision-makers monitor performance, identify strengths and weaknesses, and adjust strategies accordingly.
+
+## 🧪 Dashboard Mockup
+What should it look like?
+
+Some of the data visuals that may be appropriate for answering these questions include:
+
+✅ Scorecards / KPI Cards
+
+Total Sales
+
+Total Orders
+
+Average Order Value
+
+📊 Bar Chart
+
+Top 10 Selling Products
+
+📈 Line Chart
+
+Monthly Sales Trend
+
+🧱 Treemap
+
+Sales by Product Category
+
+🧮 Matrix Table
+
+Sales vs Target (by Month or Category)
+
+📋 Table
+
+Top Customers (Name, # of Orders, Total Spend)
+
+🎯 Slicers (Filters)
+
+By Date, Category, Country, or Customer Segment
