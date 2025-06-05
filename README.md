@@ -1,6 +1,6 @@
 # E-commerce-Sales-Performance-Report
 
-![excel-to-powerbi-animated-diagram](Data_csv/MicrosoftPower.gif)
+![power BI](Data_csv/MicrosoftPower.gif)
 
 
 # 🛍️ Project: E-commerce Sales Performance Dashboard
@@ -64,63 +64,56 @@ Total Sales = SUMX('Order_Details', 'Order_Details'[Quantity] * 'Order_Details'[
 Total Quantity = SUM('Order_Details'[Quantity])
 Average Order Value = [Total Sales] / DISTINCTCOUNT('Orders'[Order ID])
 ```
-#Design
-## 📊 Dashboard Components Required
-What should the dashboard contain based on the requirements provided?
+🎨 ## Design
+📊 Dashboard Components Required
+To understand what the dashboard should contain, let’s break it down based on the questions it answers visually:
 
-To understand what it should contain, we need to figure out what questions the dashboard needs to answer:
+What are the total sales and profit generated?
 
-What is the total revenue generated?
+What is the best-selling product and top customer?
 
-How many orders have been placed?
+Which are the top products by units sold?
 
-What is the average order value?
+What is the top-selling product category?
 
-Which are the top 10 best-selling products?
+Which states or regions contributed the most to sales?
 
-What are the monthly sales trends?
+How are sales distributed geographically?
 
-Which product categories are contributing the most to total sales?
+These insights help sales and marketing teams quickly identify where revenue is coming from and which products and regions are driving it.
 
-Are we meeting our monthly sales targets?
+🧪 Dashboard Mockup (Based on Actual Design)
+The dashboard was built using Power BI and includes the following components:
 
-Who are the top customers by spending?
+✅ KPI Cards / Scorecards
 
-These questions will help sales managers and business decision-makers monitor performance, identify strengths and weaknesses, and adjust strategies accordingly.
+🔹 Name of Best-Selling Product
 
-## 🧪 Dashboard Mockup
-What should it look like?
+🔹 Total Units Sold (for selected product)
 
-Some of the data visuals that may be appropriate for answering these questions include:
+🔹 Price in Thousands (e.g. 432K)
 
-✅ Scorecards / KPI Cards
+🔹 Sum of Profit
 
-Total Sales
-
-Total Orders
-
-Average Order Value
+🔹 Top Customer Name
 
 📊 Bar Chart
 
-Top 10 Selling Products
-
-📈 Line Chart
-
-Monthly Sales Trend
+Displays total sales by product name to highlight the top-selling items like Stole, Saree, etc.
 
 🧱 Treemap
 
-Sales by Product Category
+Visualizes sales volume by state or region (e.g., Maharashtra, Madhya Pradesh), allowing quick identification of high-performing areas.
 
-🧮 Matrix Table
+🗺️ Map Visual
 
-Sales vs Target (by Month or Category)
+Shows a geographical distribution of sales across India using location data.
 
-📋 Table
+🏆 Text Card
 
-Top Customers (Name, # of Orders, Total Spend)
+Highlights the Top-Selling Category (e.g., Electronics).
 
-🎯 Slicers (Filters)
+🎯 Note: This dashboard does not currently include filters, line charts, or tables for monthly trends or sales vs. target comparison.
 
-By Date, Category, Country, or Customer Segment
+
+![Screanshot](Data_csv/MicrosoftPower.gif)
