@@ -210,16 +210,20 @@ These items represent the most in-demand products. Stole was the top performer b
 This customer had the highest purchase value, making them a high-value repeat buyer.
 
 3. 🧩 What is the Top-Selling Product Category?
-Category	Total Sales
-Electronics	₹2,000,000
+   
+|Category |Total Sales	|
+|----- |--------------|
+|Electronics   |6	  |$2,000,000     |
 
 Electronics dominates total revenue — a clear indication that it's the platform’s strongest segment.
 
 4. 🌍 Which States Contributed the Most to Sales?
-Rank	State	Relative Sales Volume
-1	Maharashtra	🔵 Highest
-2	Madhya Pradesh	🔵 Very High
-3	Rajasthan	🔵 High
+
+|Rank |State	Relative	|Sales Volume  |
+|----- |--------------|----------------- |
+|1  |Maharashtra	  |Highest        |
+|2  |Madhya Pradesh	  |Very High       |
+|3  |Rajasthan	  |High        |
 
 These states drive the majority of the revenue. Future campaigns can be targeted here.
 
