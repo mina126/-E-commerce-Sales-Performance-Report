@@ -111,13 +111,16 @@ Shows a geographical distribution of sales across India using location data.
 
 🏆 Text Card
 
+![Screanshot](Data_csv/screen.png)
+
 
 🛠️ Tools
 |Tool --	Purpose |
-|Excel	| Initial data exploration and understanding structure
-|Power BI	| Data cleaning, transformation, and creating the interactive dashboard
-|DAX	| Creating calculated measures and KPIs inside Power BI
-|GitHub	| Hosting the project, documentation, and version control
+| --- | --- |
+|Excel	| Initial data exploration and understanding structure |
+|Power BI	| Data cleaning, transformation, and creating the interactive dashboard |
+|DAX	| Creating calculated measures and KPIs inside Power BI |
+|GitHub	| Hosting the project, documentation, and version control |
 
 🧪 Development
 📋 Pseudocode (Approach Step-by-Step)
@@ -177,4 +180,4 @@ Highlights the Top-Selling Category (e.g., Electronics)
 
 
 
-![Screanshot](Data_csv/screen.png)
+
