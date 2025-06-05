@@ -115,12 +115,14 @@ Shows a geographical distribution of sales across India using location data.
 
 
 🛠️ Tools
-|Tool --	Purpose |
+
+| Tool | Purpose |
 | --- | --- |
-|Excel	| Initial data exploration and understanding structure |
-|Power BI	| Data cleaning, transformation, and creating the interactive dashboard |
-|DAX	| Creating calculated measures and KPIs inside Power BI |
+| Excel | Initial data exploration and understanding structure |
+| Power BI | Data cleaning, transformation, and creating the interactive dashboard  |
 |GitHub	| Hosting the project, documentation, and version control |
+|DAX	| Creating calculated measures and KPIs inside Power BI | 
+
 
 🧪 Development
 📋 Pseudocode (Approach Step-by-Step)
