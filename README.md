@@ -116,4 +116,4 @@ Highlights the Top-Selling Category (e.g., Electronics).
 🎯 Note: This dashboard does not currently include filters, line charts, or tables for monthly trends or sales vs. target comparison.
 
 
-![Screanshot](Data_csv/MicrosoftPower.gif)
+![Screanshot](Data_csv/screen.png)
