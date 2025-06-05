@@ -111,9 +111,70 @@ Shows a geographical distribution of sales across India using location data.
 
 🏆 Text Card
 
-Highlights the Top-Selling Category (e.g., Electronics).
 
-🎯 Note: This dashboard does not currently include filters, line charts, or tables for monthly trends or sales vs. target comparison.
+🛠️ Tools
+|Tool --	Purpose |
+|Excel	| Initial data exploration and understanding structure
+|Power BI	| Data cleaning, transformation, and creating the interactive dashboard
+|DAX	| Creating calculated measures and KPIs inside Power BI
+|GitHub	| Hosting the project, documentation, and version control
+
+🧪 Development
+📋 Pseudocode (Approach Step-by-Step)
+Collect the Data
+
+Import datasets: Orders.csv, Order_Details.csv, Sales_Target.csv
+
+Explore the Data in Excel
+
+Check file structure, formats, missing values, column types
+
+Load the Data into Power BI
+
+Use Power Query to connect to all source files
+
+Clean and Transform the Data
+
+Rename headers, remove nulls, fix data types, create relationships
+
+Create Measures Using DAX
+
+Total Sales, Total Orders, Avg. Order Value, etc.
+
+Design the Dashboard
+
+Add visuals: bar charts, treemaps, KPIs, map, text cards, etc.
+
+Generate Insights
+
+Highlight best-selling products, top customers, profit performance
+
+Write Documentation
+
+Describe process, tools, business objective, visual logic
+
+Publish to GitHub
+
+Upload .pbix file, README.md, and screenshots
+
+🧾 Data Exploration Notes
+This is the stage where we examine the raw data to identify any potential issues or interesting patterns.
+
+🔍 Initial Observations:
+The dataset is structured across 2-3 files, including product sales, order details, and targets.
+
+Some product names appear duplicated with case differences or minor typos — these need to be standardized.
+
+Customer names and city names have some inconsistencies (e.g., extra spaces, different spellings).
+
+Some sales values seem unusually high or low — flagged for review.
+
+Not all columns are needed — extra metadata columns were removed before visualization.
+
+
+
+Highlights the Top-Selling Category (e.g., Electronics)
+
 
 
 ![Screanshot](Data_csv/screen.png)
