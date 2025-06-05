@@ -64,7 +64,7 @@ Total Sales = SUMX('Order_Details', 'Order_Details'[Quantity] * 'Order_Details'[
 Total Quantity = SUM('Order_Details'[Quantity])
 Average Order Value = [Total Sales] / DISTINCTCOUNT('Orders'[Order ID])
 ```
-🎨 ## Design
+## 🎨 Design
 📊 Dashboard Components Required
 To understand what the dashboard should contain, let’s break it down based on the questions it answers visually:
 
