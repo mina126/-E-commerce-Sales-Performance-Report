@@ -201,8 +201,10 @@ Below are the main questions we focused on during the analysis and their corresp
 These items represent the most in-demand products. Stole was the top performer by volume.
 
 2. 🏅 Who is the Top Customer?
-Customer Name	Total Orders	Total Sales
-Aakanksha	6	₹432,000
+   
+|Customer Name	|Total Orders|	|Total Sales|
+|------| -------- |---------|
+|Aakanksha	|6 |$432,000|
 
 This customer had the highest purchase value, making them a high-value repeat buyer.
 
