@@ -188,13 +188,15 @@ The purpose of this analysis was to identify key patterns in product performance
 Below are the main questions we focused on during the analysis and their corresponding insights.
 
 1. 🏆 What are the Top 5 Products by Total Sales?
+
+
 | Rank |Product Name	|Total Units Sold  |
 |----- |--------------|----------------- |
-|  1   |     Stole	  |       75         |
-|  2   |     Saree    |       68         |
-|  3   |  Handkerchief|       60         |
-|  4	 |    Bookcases	|       34         |
-|  5	 |   Furnishings|       29         |
+|1   |Stole	  |75         |
+|2   |Saree    |68         |
+|3   |Handkerchief|60         |
+|4	 |Bookcases	|34         |
+|5	 |Furnishings|29         |
 
 These items represent the most in-demand products. Stole was the top performer by volume.
 
