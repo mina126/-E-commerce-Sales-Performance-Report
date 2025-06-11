@@ -111,7 +111,7 @@ Shows a geographical distribution of sales across India using location data.
 
 🏆 Text Card
 
-![Screanshot](Data_csv/screen.png)
+![Screanshot](Dashboard/0.jpg)
 
 
 🛠️ Tools
